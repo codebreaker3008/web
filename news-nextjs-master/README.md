@@ -1,6 +1,3 @@
-Certainly! Here's the complete README.md with all the steps combined:
-
-```markdown
 # NewsGlance
 
 Welcome to NewsGlance - Your go-to destination for the latest news and updates from around the world!
@@ -31,24 +28,3 @@ To get started with NewsGlance, follow these steps:
    ```bash
    git clone "the link you will copy"
    cd newsglance
-   ```
-
-3. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-4. **Start the Development Server**:
-   ```bash
-   npm run dev
-   ```
-
-5. **Open the Website**:
-   Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view NewsGlance.
-
-## Contributing
-
-We welcome contributions from the community to improve NewsGlance. Whether it's fixing a bug, adding a new feature, or suggesting enhancements, your contributions are highly appreciated. 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
