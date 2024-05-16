@@ -28,3 +28,28 @@ To get started with NewsGlance, follow these steps:
    ```bash
    git clone "the link you will copy"
    cd newsglance
+
+
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Start the Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+5. **Open the Website**:
+   Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view NewsGlance.
+
+
+
+## Feedback
+
+We value your feedback! If you have any suggestions, questions, or concerns about NewsGlance, please don't hesitate to comment. Your feedback helps us improve and enhance the user experience for all our readers.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
