@@ -48,8 +48,7 @@ To get started with NewsGlance, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to improve NewsGlance. Whether it's fixing a bug, adding a new feature, or suggesting enhancements, your contributions are highly appreciated. To contribute, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
+We welcome contributions from the community to improve NewsGlance. Whether it's fixing a bug, adding a new feature, or suggesting enhancements, your contributions are highly appreciated. 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
